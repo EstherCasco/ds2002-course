@@ -1,3 +1,8 @@
+---
+layout: default
+title: Setting Up
+---
+
 # Setting Up
 
 ## Git & GitHub (Required)

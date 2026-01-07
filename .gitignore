@@ -7,3 +7,14 @@ mywork/*
 dataprojects/*
 **OLD*
 **class-*
+labs/
+**labs/*
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/bundle/
+Gemfile.lock

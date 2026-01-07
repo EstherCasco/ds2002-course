@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hands-On Exercises
+---
+
 # Hands-On Exercises
 
 Click into a section to get practice with a tool or concept:
