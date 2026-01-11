@@ -5,6 +5,8 @@ title: MacOS & Linux Setup
 
 # MacOS & Linux Setup
 
+If you have a Windows computer, go to the [Windows setup instructions](windows.md).
+
 ## Setting Up Your Own Computer for Course Projects (Optional)
 
 **Note: If you are new to programming and are not familiar with installing programming tools on your computer, I highly recommend skipping this step and using [GitHub Codespaces](README.md#using-github-codespaces-for-your-projects-recommended) instead.** This will allow you to get started immediately without the hassle of troubleshooting any setup issues.
@@ -19,7 +21,7 @@ To set up your own computer for all course activities I highly encourage you to 
 
 ### VSCode
 
-Download and install [Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview) from the official website. Follow the platform-specific installation instructions for your operating system (macOS or Linux).
+Download and install <a href="https://code.visualstudio.com/docs/setup/setup-overview" target="_blank" rel="noopener noreferrer">Visual Studio Code</a> from the official website. Follow the platform-specific installation instructions for your operating system (macOS or Linux).
 
 ### Tools & Python
 
@@ -30,7 +32,7 @@ MacOS and Linux have terminal applications pre-installed. So you won't need Git-
    ```bash
    curl -L -O https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh
    ```
-   **Note:** For some specific macOS architectures (like Apple Silicon/arm64), the command might be slightly different; you can check the [Miniforge GitHub page](https://github.com/conda-forge/miniforge) for direct links if the automatic detection fails.
+   **Note:** For some specific macOS architectures (like Apple Silicon/arm64), the command might be slightly different; you can check the <a href="https://github.com/conda-forge/miniforge" target="_blank" rel="noopener noreferrer">Miniforge GitHub page</a> for direct links if the automatic detection fails.
 3. Run the installation script: Execute the downloaded script using bash.
    ```bash
    bash Miniforge3-$(uname)-$(uname -m).sh

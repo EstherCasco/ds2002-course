@@ -136,9 +136,9 @@ Starting with the group member next to the first person who successfully pushed,
 
 ### Setting up and Managing Repositories
 
-Read [git in Data Science](https://uvads.github.io/git-basics/) for a brief introduction.
+Read <a href="https://uvads.github.io/git-basics/" target="_blank" rel="noopener noreferrer">git in Data Science</a> for a brief introduction.
 
-Then work through the [Creating and Managing Git Repositories Exercises](https://uvads.github.io/git-basics/docs/creating-repositories/). These exercises will cover:
+Then work through the <a href="https://uvads.github.io/git-basics/docs/creating-repositories/" target="_blank" rel="noopener noreferrer">Creating and Managing Git Repositories Exercises</a>. These exercises will cover:
 
 * Init
 * Fork (should be familiar from [Setup Instructions](../../setup/README.md))
@@ -250,7 +250,7 @@ This single command creates the GitHub repository and pushes your code.
 
 ### Stashing, rebasing, etc.
 
-If you want to explore additional Git features, review the [Advanced git](https://uvads.github.io/git-basics/docs/advanced/) tutorial.
+If you want to explore additional Git features, review the <a href="https://uvads.github.io/git-basics/docs/advanced/" target="_blank" rel="noopener noreferrer">Advanced git</a> tutorial.
 
 ### Creating a Repository from a Template
 
@@ -313,7 +313,7 @@ You can also create a repository from a template using GitHub's web interface:
 
 ## Resources
 
-- [git in Data Science](https://uvads.github.io/git-basics/) - Brief introduction to Git
-- [Creating and Managing Git Repositories Exercises](https://uvads.github.io/git-basics/docs/creating-repositories/) - Exercises covering Init, Fork, Delete, and Managing Collaborators
-- [Basic Commands](https://uvads.github.io/git-basics/) - Exercises for git diff, status, add, commit, push, pull, fetch, and log
-- [Advanced git](https://uvads.github.io/git-basics/docs/advanced/) - Advanced Git features tutorial
+- <a href="https://uvads.github.io/git-basics/" target="_blank" rel="noopener noreferrer">git in Data Science</a> - Brief introduction to Git
+- <a href="https://uvads.github.io/git-basics/docs/creating-repositories/" target="_blank" rel="noopener noreferrer">Creating and Managing Git Repositories Exercises</a> - Exercises covering Init, Fork, Delete, and Managing Collaborators
+- <a href="https://uvads.github.io/git-basics/" target="_blank" rel="noopener noreferrer">Basic Commands</a> - Exercises for git diff, status, add, commit, push, pull, fetch, and log
+- <a href="https://uvads.github.io/git-basics/docs/advanced/" target="_blank" rel="noopener noreferrer">Advanced git</a> - Advanced Git features tutorial

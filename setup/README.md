@@ -11,17 +11,17 @@ Everyone will need a GitHub account. If you already have a GitHub account, you c
 
 ### Step 1: Create a GitHub Account
 
-1. Go to [github.com](https://github.com) and click **Sign up**
+1. Go to <a href="https://github.com" target="_blank" rel="noopener noreferrer">github.com</a> and click **Sign up**
 2. Follow the prompts to create your account
 3. Verify your email address if required
 
 ### Step 2: Fork the Repository
 
-1. Navigate to the original repository on GitHub
+1. Navigate to the original repository on GitHub, <a href="https://github.com/ksiller/ds2002-course" target="_blank" rel="noopener noreferrer">https://github.com/ksiller/ds2002-course</a>
 2. Click the **Fork** button in the top-right corner
 3. Select your account as the destination for the fork, e.g. if your GitHub account is "msmith", you'd use `msmith/ds2002-course` as the name for the forked repo (should be set as default).
 4. Wait for the fork to complete
-5. Bookmark the webpage of your forked GitHub repository. You will be using it frequently :) 
+5. **Bookmark the webpage of your forked GitHub repository. You will be using it frequently :)** 
 
 ### Step 3: Create a Personal Access Token (PAT)
 
@@ -37,6 +37,10 @@ Personal Access Tokens (PATs) are an established best practice for securing acce
 6. Click **Generate token** at the bottom
 7. **Copy the token immediately** - you won't be able to see it again!
 8. Store it securely (you'll use it as your password when using git from your local machine)
+
+### Step 4: GitHub Education
+
+<a href="https://github.com/education" target="_blank" rel="noopener noreferrer">Sign up for GitHub Education</a>. It is free and will augment your abilities to use GitHub and Codespaces. 
 
 ## Using GitHub Codespaces for Your Projects (Recommended)
 

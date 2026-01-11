@@ -22,7 +22,11 @@ Check the end of each unit for links to additional resources for further explora
 
 ## Labs
 
-Weekly labs are released with instructions on the **[course Canvas page](https://canvas.its.virginia.edu/courses/167598)**.
+Weekly labs are released with instructions on the **<a href="https://canvas.its.virginia.edu/courses/167598" target="_blank" rel="noopener noreferrer">course Canvas page</a>**.
+
+## Projects
+
+As a final assignment you will be working in groups of 4-5 on a **[data pipeline project](projects/README.md)** that connects key learnings from all course modules. Project choices and specific instructions will be released on **<a href="https://canvas.its.virginia.edu/courses/167598" target="_blank" rel="noopener noreferrer">course Canvas page</a>** after modules 1-3 are completed..
 
 ## Repository Management
 

@@ -17,7 +17,7 @@ If you encounter an error message, don't be discouraged—errors are learning op
 Today we will walk through the first lab assignment together. 
 
 - Work through CLI commands: [Lab 01](../../labs/01-cli/README.md) (You may see a 404 error until the lab is released)
-- Submit your work as Lab 1 on Canvas. See [submission instructions](../../labs/README.md).
+- Submit your work as Lab 1 on Canvas. See the [Submitting Labs](../../labs/README.md) section for instructions.
 
 ## Additional Practice
 
@@ -2091,7 +2091,7 @@ The next 9 characters represent permissions for the USER (i.e. the owner), GROUP
 
 Each of those entities can have any combination of `rwx` permissions, which stands for READ, WRITE, and EXECUTE. This applies both to files and directories.
 
-So to see `rwxrwxrwx` means the user, group, and other users all have full permissions to read, write, and execute the file/folder. [**Read more here**](https://www.redhat.com/en/blog/linux-file-permissions-explained) about POSIX permissions.
+So to see `rwxrwxrwx` means the user, group, and other users all have full permissions to read, write, and execute the file/folder. <a href="https://www.redhat.com/en/blog/linux-file-permissions-explained" target="_blank" rel="noopener noreferrer"><strong>Read more here</strong></a> about POSIX permissions.
 
 As practice, you should now determine what command is required to allow the USER and GROUP read/write permissions to a file, but no access to OTHER users.
 
@@ -2131,4 +2131,4 @@ These advanced commands help you understand and manage your system at a deeper l
 
 ## Resources
 
-[UVA Research Computing's Unix Tutorial](https://learning.rc.virginia.edu/tutorials/unix-tutorial/)
+<a href="https://learning.rc.virginia.edu/tutorials/unix-tutorial/" target="_blank" rel="noopener noreferrer">UVA Research Computing's Unix Tutorial</a>

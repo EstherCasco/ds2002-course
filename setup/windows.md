@@ -21,7 +21,7 @@ To set up your own computer for all course activities I highly encourage you to 
 
 ## VSCode
 
-Download and install [Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview) from the official website. Follow the platform-specific installation instructions for Windows.
+Download and install <a href="https://code.visualstudio.com/docs/setup/setup-overview" target="_blank" rel="noopener noreferrer">Visual Studio Code</a> from the official website. Follow the platform-specific installation instructions for Windows.
 
 ## Tools & Python
 
@@ -29,11 +29,11 @@ Since we're using the Linux command line, you will need to install a Linux-like 
 
 ### 1. Install Git-Bash
 
-1.1 Download and install Git-Bash from the [official Git website](https://git-scm.com/downloads).
+1.1 Download and install Git-Bash from the <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer">official Git website</a>.
 
 ### 2. Install Miniforge
 
-2.1. Download the Miniforge Installer. Go to the [conda-forge Miniforge GitHub repository](https://github.com/conda-forge/miniforge) and download the Windows executable file (Miniforge3-Windows-x86_64.exe).
+2.1. Download the Miniforge Installer. Go to the <a href="https://github.com/conda-forge/miniforge" target="_blank" rel="noopener noreferrer">conda-forge Miniforge GitHub repository</a> and download the Windows executable file (Miniforge3-Windows-x86_64.exe).
 
 2.2 Run the Executable Installer: Double-click the downloaded .exe file to run the installer.
    - Follow the prompts, accepting the license agreement.
@@ -43,7 +43,7 @@ Since we're using the Linux command line, you will need to install a Linux-like 
    - Check the "Add Miniforge3 to my PATH environment variable" option. 
 
 2.3. Configure bash for Python
-Open a new ***Git Bash terminal*** (not the Windows PowerShell) and execute the following command:
+Open a new ***Git Bash terminal*** (not the Windows PowerShell or Miniforge Command Prompt) and execute the following command:
 ```bash
 echo 'echo "Sourcing .bashrc" && eval "$(mamba.exe shell hook --shell bash)" && mamba activate' >> ~/.bashrc
 ```

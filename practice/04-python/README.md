@@ -16,7 +16,7 @@ Scripting in `python` is fairly similar to bash, but it has a lot more functiona
 terms of libraries, classes, functions, etc. A few things to note:
 
 - Unlike `bash` it is not as easy to pass `$1`, `$2` parameters in the command-line.
-Refer to [Command line arguments in Python](https://stackabuse.com/command-line-arguments-in-python/) for a basic tutorial.
+Refer to <a href="https://stackabuse.com/command-line-arguments-in-python/" target="_blank" rel="noopener noreferrer">Command line arguments in Python</a> for a basic tutorial.
 - Python can invoke shell scripts in other languages.
 - Python has many better options for conditional logic, error handling, and logging.
 - Whereas `bash` and other low-level tools (`grep`, `sed`, `awk`, `tr`, `perl`, etc.) can parse 
@@ -65,6 +65,6 @@ Alternatively you can set up the software environment locally on your own comput
 
 ## Resources
 
-[Command line arguments in Python](https://stackabuse.com/command-line-arguments-in-python/)
-[Pandas tutorial](https://www.kaggle.com/sohier/tutorial-accessing-data-with-pandas) on Kaggle.
+<a href="https://stackabuse.com/command-line-arguments-in-python/" target="_blank" rel="noopener noreferrer">Command line arguments in Python</a>
+<a href="https://www.kaggle.com/sohier/tutorial-accessing-data-with-pandas" target="_blank" rel="noopener noreferrer">Pandas tutorial</a> on Kaggle.
 

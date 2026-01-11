@@ -1,37 +1,21 @@
 # Getting started with Environments
 
-## Start up Codespaces:
+The goal of this activity is to familiarize you with GitHub Codespaces and your development environment. You'll learn how to start and manage Codespaces instances and understand the basic workflow for completing labs and exercises.
 
-1. On GitHub go to your forked repository, click the green **Code** button
-2. Select the **Codespaces** tab
-3. Click **Create codespace on main** (or select a branch)
-4. GitHub will automatically detect and use the default devcontainer configuration
-5. Wait for the codespace to initialize (this may take a few minutes)
+> **Note:** Go to your ***forked course repository*** and start Codespaces as described in the [course's general setup instructions](../../setup/README.md). If you haven't forked the repo yet, do it now.
 
-Once your codespace is running, open the terminal and run these commands to learn about your system:
+## In-class Activities
 
-1. Check the hostname of your system:
-   ```bash
-   hostname
-   ```
-   
-   The output should look similar to this:
-   ```bash
-   codespaces-57da94
-   ```
+Start out with completing [Lab 00 - Setup](../../labs/00-setup/README.md). This activity will introduce you to GitHub Codespaces and familiarize you with the process of submitting your lab and project work to Canvas.
 
-2. Post the output in the class poll (url will be shared in class). 
+Continue you with Additional Practice activities deepen your understanding of the Codespaces environment.
 
-**Congratulations! You are all set for the next class activities.**
+> **Note:**
 
-## Optional - On your own computer
-
-If you have a terminal application installed on your own computer, open it now.
-
-Then run:
-```bash
-hostname
-```
+## Additional Practice
+1. The VSCode show you in the left sidebar 
+2. Spin up another Codespace instances. Go to  
+3. View a list of all your active codespaces under <describe>
 
 ## Troubleshooting
 
@@ -39,9 +23,9 @@ hostname
 
 If you see a popup asking for clipboard access, you can learn more about it here:
 
-[How do I allow VS Code to access my clipboard for reading?](https://code.visualstudio.com/docs/remote/codespaces#_how-do-i-allow-vs-code-to-access-my-clipboard-for-reading)
+<a href="https://code.visualstudio.com/docs/remote/codespaces#_how-do-i-allow-vs-code-to-access-my-clipboard-for-reading" target="_blank" rel="noopener noreferrer">How do I allow VS Code to access my clipboard for reading?</a>
 
-# Resources
+## Resources
 
-* [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces) - Official Codespaces documentation
-* [Getting Started with Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) - Quick start guide
+* <a href="https://docs.github.com/en/codespaces" target="_blank" rel="noopener noreferrer">GitHub Codespaces Documentation</a> - Official Codespaces documentation
+* <a href="https://docs.github.com/en/codespaces/getting-started/quickstart" target="_blank" rel="noopener noreferrer">Getting Started with Codespaces</a> - Quick start guide

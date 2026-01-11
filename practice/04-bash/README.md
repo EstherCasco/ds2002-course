@@ -154,5 +154,5 @@ two years later, or when your code is shared with others.
 
 ## Resources
 
-[Bash scripting tutorial](https://linuxconfig.org/bash-scripting-tutorial)
+<a href="https://linuxconfig.org/bash-scripting-tutorial" target="_blank" rel="noopener noreferrer">Bash scripting tutorial</a>
 

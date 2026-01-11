@@ -2,7 +2,7 @@
 
 This is the history of commands that were demoed in class. It illustrates the collaborative work on two clones (copies) of the same repository. 
 
-If you want to simulate this with your neighbor, invite them as a collaborator to your repo after you have created it on GitHub. See [GitHub's guide on inviting collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).
+If you want to simulate this with your neighbor, invite them as a collaborator to your repo after you have created it on GitHub. See <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository" target="_blank" rel="noopener noreferrer">GitHub's guide on inviting collaborators</a>.
 
 ## Setting up on computer 1
 
