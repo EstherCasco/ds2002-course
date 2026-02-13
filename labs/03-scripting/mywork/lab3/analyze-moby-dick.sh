@@ -1,0 +1,14 @@
+#!/bin/bash
+#Usage: ./analyze-moby-dick.sh <word_search> <output_file>
+
+#Exit immediately if any command fails
+set -e
+
+#Variables for input pparameters
+SEARCH_PATTERN="$1"
+OUTPUT="$2"
+
+#Check if input was provided as an argument 
+if [ $# -eq 0]; then
+	echo "Error: Please Prove word for word search"
+	exit 1
