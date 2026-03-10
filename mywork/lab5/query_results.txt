@@ -1,0 +1,4 @@
+name	city	item	quantity	order_date
+Kango	Woodbridge	Kit Kat	2	2026-02-02
+Maleah	Woodbridge	Twix	2	2026-02-04
+Ruby	Virginia Beach	Starburst	2	2026-02-07
