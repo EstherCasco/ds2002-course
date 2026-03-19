@@ -1,0 +1,56 @@
+JobID           JobName  Partition    Account  AllocCPUS      State ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+10124533     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10124533.ba+      batch                ds2002          2  CANCELLED     0:15 
+10172357     ood_vscode interacti+     ds2002          2     FAILED      1:0 
+10172357.ba+      batch                ds2002          2     FAILED      1:0 
+10172403          hello standard-+     ds2002          1  COMPLETED      0:0 
+10172403.ba+      batch                ds2002          1  COMPLETED      0:0 
+10172548_1   text-array standard-+     ds2002          1  COMPLETED      0:0 
+10172548_1.+      batch                ds2002          1  COMPLETED      0:0 
+10172548_2   text-array standard-+     ds2002          1  COMPLETED      0:0 
+10172548_2.+      batch                ds2002          1  COMPLETED      0:0 
+10172548_3   text-array standard-+     ds2002          1  COMPLETED      0:0 
+10172548_3.+      batch                ds2002          1  COMPLETED      0:0 
+10172548_4   text-array standard-+     ds2002          1  COMPLETED      0:0 
+10172548_4.+      batch                ds2002          1  COMPLETED      0:0 
+10172548_5   text-array standard-+     ds2002          1  COMPLETED      0:0 
+10172548_5.+      batch                ds2002          1  COMPLETED      0:0 
+10178132     ood_vscode interacti+     ds2002          2    TIMEOUT      0:0 
+10178132.ba+      batch                ds2002          2  CANCELLED     0:15 
+10185409     ood_vscode interacti+     ds2002          2 CANCELLED+      0:0 
+10185409.ba+      batch                ds2002          2  CANCELLED     0:15 
+10351055     ood_vscode interacti+     ds2002          2    RUNNING      0:0 
+10351055.ba+      batch                ds2002          2    RUNNING      0:0 
+10352523     serialbook standard-+     ds2002          1  COMPLETED      0:0 
+10352523.ba+      batch                ds2002          1  COMPLETED      0:0 
+10352850_1   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10352850_1.+      batch                ds2002          1     FAILED      1:0 
+10352850_2   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10352850_2.+      batch                ds2002          1     FAILED      1:0 
+10352850_3   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10352850_3.+      batch                ds2002          1     FAILED      1:0 
+10352850_4   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10352850_4.+      batch                ds2002          1     FAILED      1:0 
+10352850_5   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10352850_5.+      batch                ds2002          1     FAILED      1:0 
+10353009_1   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10353009_1.+      batch                ds2002          1     FAILED      1:0 
+10353009_2   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10353009_2.+      batch                ds2002          1     FAILED      1:0 
+10353009_3   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10353009_3.+      batch                ds2002          1     FAILED      1:0 
+10353009_4   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10353009_4.+      batch                ds2002          1     FAILED      1:0 
+10353009_5   jobarrayb+ standard-+     ds2002          1     FAILED      1:0 
+10353009_5.+      batch                ds2002          1     FAILED      1:0 
+10353101_1   jobarrayb+ standard-+     ds2002          1  COMPLETED      0:0 
+10353101_1.+      batch                ds2002          1  COMPLETED      0:0 
+10353101_2   jobarrayb+ standard-+     ds2002          1  COMPLETED      0:0 
+10353101_2.+      batch                ds2002          1  COMPLETED      0:0 
+10353101_3   jobarrayb+ standard-+     ds2002          1  COMPLETED      0:0 
+10353101_3.+      batch                ds2002          1  COMPLETED      0:0 
+10353101_4   jobarrayb+ standard-+     ds2002          1  COMPLETED      0:0 
+10353101_4.+      batch                ds2002          1  COMPLETED      0:0 
+10353101_5   jobarrayb+ standard-+     ds2002          1  COMPLETED      0:0 
+10353101_5.+      batch                ds2002          1  COMPLETED      0:0 
