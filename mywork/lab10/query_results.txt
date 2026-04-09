@@ -1,0 +1,6 @@
+customer_id	name	city	order_id	item	quantity	order_date
+2	Kango	Woodbridge	102	Kit Kat	2	2026-02-02
+4	Maleah	Woodbridge	104	Twix	2	2026-02-04
+7	Ruby	Virginia Beach	107	Starburst	2	2026-02-07
+11	Maria Lopez	Charlottesville	111	Notebook	2	2026-04-08
+12	Daniel Curz	Richmond	113	Water Bottle	3	2026-04-08
